@@ -1,0 +1,26 @@
+synonyms.txt
+
+ A B A S E M E N T # . . . . .
+ B . B . N . . # . . . . . . .
+ A B A N D O N E D # . . . . .
+ C . N . O . . L . . . . . . .
+ K # D O W N W A R D S # . . .
+ # . O . M . . T . . . . . . .
+ C O N S E Q U E N T I A L # .
+ . . # . N . . D . . . . . . .
+ . . . . T . . # . . . . . . .
+ . . . . # . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+
+AaH ABASEMENT
+CaH ABANDONED
+EcH DOWNWARDS
+GaH CONSEQUENTIAL
+AaV ABACK
+AcV ABANDON
+AeV ENDOWMENT
+ChV ELATED

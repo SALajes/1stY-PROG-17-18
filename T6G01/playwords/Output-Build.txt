@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: playwords, Configuration: Debug Win32 ------
+1>Source.cpp
+1>Project2.vcxproj -> C:\Users\turnm\Desktop\playwords\Debug\playwords.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

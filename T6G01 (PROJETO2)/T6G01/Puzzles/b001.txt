@@ -1,0 +1,35 @@
+synonyms.txt
+
+ A C A D E M I C A L # # R # P
+ W # B # N # # # # # C # E # R
+ A B A N D O N E D # O # H # O
+ R # N # O # # L # # N # A # C
+ E # D O W N W A R D S # B # R
+ # # O # M # # T # # T # I # A
+ C O N S E Q U E N T I A L # S
+ A # # # N # # D # # T # I # T
+ T R A I T O R # # # U # T # I
+ E # # # # # # # # # T # A # N
+ C R I T I C I S M # I # T # A
+ H # # # # # # # # # O # E # T
+ I M P R I S O N M E N T # # I
+ S # # # # # # # # # A # # # O
+ M I S E R A B L E # L O W # N
+
+AaH ACADEMICAL
+CaH ABANDONED
+EcH DOWNWARDS
+GaH CONSEQUENTIAL
+IaH TRAITOR
+KaH CRITICISM
+MaH IMPRISONMENT
+OaH MISERABLE
+OkH LOW
+AaV AWARE
+AcV ABANDON
+AeV ENDOWMENT
+AmV REHABILITATE
+AoV PROCRASTINATION
+BkV CONSTITUTIONAL
+ChV ELATED
+GaV CATECHISM
