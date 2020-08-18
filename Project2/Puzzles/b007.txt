@@ -1,0 +1,11 @@
+teste.txt
+
+ A B A C K
+ # # B # #
+ A B A T E
+ # # S # #
+ # # H # #
+
+AaH ABACK
+CaH ABATE
+AcV ABASH

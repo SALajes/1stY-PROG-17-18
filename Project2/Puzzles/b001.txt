@@ -1,0 +1,20 @@
+synonyms.txt
+
+ # A # # # P # # # # # #
+ # B # # # R # # # # # #
+ # A B A T E # # # # # #
+ # S # # # S # # # # # #
+ # H # # # E # # # # # #
+ # # A T O N E M E N T #
+ # # B # # T # # # # # #
+ # # A # # I # # # # # #
+ # # N # # M # # # # # #
+ # # D # # E # # # # # #
+ # # O # # N # # # # # #
+ # # N # # T # # # # # #
+
+CbH ABATE
+FcH ATONEMENT
+AbV ABASH
+AfV PRESENTIMENT
+FcV ABANDON

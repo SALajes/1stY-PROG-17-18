@@ -1,0 +1,19 @@
+teste.txt
+
+ A B A C K # A # # A
+ B # B # # # B # # B
+ A B A S E # A # # B
+ T # S # # # N # # R
+ E # E # # # D # # E
+ # # M # # # O # # V
+ # # E # # # N # # I
+ # # N # # # # # # A
+ # # T # # # # # # T
+ # # # # # # # # # E
+
+AaH ABACK
+CaH ABASE
+AaV ABATE
+AcV ABASEMENT
+AgV ABANDON
+AjV ABBREVIATE

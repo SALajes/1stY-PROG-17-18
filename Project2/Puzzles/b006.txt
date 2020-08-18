@@ -1,0 +1,19 @@
+teste.txt
+
+ A B D U C T I O N #
+ B . # . . . . . . .
+ A B A C K # . . . .
+ N . B . . . . . . .
+ D # A B A T E # . .
+ O . S . . . . . . .
+ N . E . . . . . . .
+ # . # . . . . . . .
+ A B D E R I T E # .
+ . . . . . . . . . .
+
+AaH ABDUCTION
+CaH ABACK
+EcH ABATE
+IaH ABDERITE
+AaV ABANDON
+CcV ABASE

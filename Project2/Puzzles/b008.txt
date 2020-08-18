@@ -1,0 +1,28 @@
+synonyms.txt
+
+ P I T # T W I T # W
+ L # O G R E # # # R
+ E Y U # A L L Y # O
+ D E R I V A T I O N
+ G A # # E # # # R G
+ E R R # L # # # A F
+ # L # # E # # # L U
+ # Y # # R # # # # L
+ # # # # # Z E R O #
+ V I T A L # A B L E
+
+AaH PIT
+AeH TWIT
+BcH OGRE
+CeH ALLY
+DaH DERIVATION
+FaH ERR
+IfH ZERO
+JaH VITAL
+JgH ABLE
+AaV PLEDGE
+AcV TOUR
+AeV TRAVELER
+AjV WRONGFUL
+CbV YEARLY
+DiV ORAL

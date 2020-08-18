@@ -1,0 +1,17 @@
+teste.txt
+
+ A B A S E # . . . .
+ B . B . . . . # . .
+ A B A N D O N # . .
+ S . N . . . . . . .
+ H . D . . . . . . .
+ # . O . . . . . . .
+ . . N . . . . . . .
+ . . # . . . . . . .
+ . . . . . . . . . .
+ . . . . . . . . . .
+
+AaH ABASE
+AaV ABASH
+AcV ABANDON
+CaH ABANDON

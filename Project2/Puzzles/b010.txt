@@ -1,0 +1,25 @@
+synonyms.txt
+
+ W I T C H C R A F T
+ R # R # # O # B # R
+ O R A L # N # A # O
+ N # V # # T # T # U
+ G # E # # E # E # B
+ F A S T # X # # # L
+ U # T # # T # Z # O
+ L O Y A L # # E # U
+ # # # # # # # R # S
+ S L Y # V E N O M #
+
+AaH WITCHCRAFT
+CaH ORAL
+FaH FAST
+HaH LOYAL
+JaH SLY
+JeH VENOM
+AaV WRONGFUL
+AcV TRAVESTY
+AfV CONTEXT
+AhV ABATE
+AjV TROUBLOUS
+GhV ZERO
