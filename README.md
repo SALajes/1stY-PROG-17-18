@@ -9,8 +9,8 @@ Carlos Jorge Albuquerque (@CajoAlbuquerque)
 First project:
    - part 1: Dictionary parser
    - part 2: 5 games using a dictionary as data
-</br>
-Second project:</br>
-   Using what was previously developed we created a Crosswords puzzle game, where you can solve previously created puzzles and create new ones (always respecting the provided dictionary).</br>
+   
+Second project:
+   - Using what was previously developed we created a Crosswords puzzle game, where you can solve previously created puzzles and create new ones (always respecting the provided dictionary).</br>
 
 Classification: 19
